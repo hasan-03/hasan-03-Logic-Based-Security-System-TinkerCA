@@ -12,3 +12,6 @@ Design and simulate a **Logic-Based Security System** using basic logic gates (A
 - Provide a truth table and logic circuit diagram.
 
 In the following repository you will find the PDF for the circuit diagram along with the Tinkarcad link for the simulation of the circuit. A link of google docs for Truth table.
+
+Link for TinkedCAD: https://www.tinkercad.com/things/gEpxdUtryNp-neat-jofo/editel
+Link for Google Docs: https://docs.google.com/document/d/10OnSbiQQkn3MstxQvOjckd3zFJyREP7XZx-0E8NaHF8/edit?usp=sharing
